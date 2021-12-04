@@ -1,10 +1,10 @@
 <p align='center'>
   <b>Hi 👋, I'm Colton</b><br>
-  <a href="https://discord.gg/X6CuqRWC3z">Discord</a> |
+  <a href="https://discord.gg/X6CuqRWC3z">Discord</a>
 </p>
 
 <p align="center"><br>
-  <a href="https://github.com/KanekiWeb">
+  <a href="https://github.com/265866">
     <img src="https://lanyard-profile-readme.vercel.app/api/798415976822472714"/>
      </a>
 </p>
@@ -26,5 +26,5 @@
 
 <p align="center"> 
   Profile Visits :<br>
-  <img src="https://profile-counter.glitch.me/KanekiWeb/count.svg" />
+  <img src="https://profile-counter.glitch.me/265866/count.svg" />
 </p>
