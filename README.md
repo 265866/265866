@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **anything discord or ML related**
 
-- 📫 How to reach me **coltonmbusiness@gmail.com**
+- 📫 How to reach me **business@coltonm.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
