@@ -1,1 +1,1 @@
-idk i mostly just use this for private repos and stuff
+github account mostly used for private projects
